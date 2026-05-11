@@ -1,5 +1,5 @@
-google-play-scraper==1.2.7
-langdetect==1.0.9
-pandas==2.2.3
-streamlit==1.41.1
-tqdm==4.66.1
+google-play-scraper
+langdetect
+pandas
+streamlit
+tqdm
