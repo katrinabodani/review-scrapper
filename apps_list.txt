@@ -1,0 +1,3 @@
+# Google Play Store package IDs — one per line
+# Lines starting with # are ignored
+com.king.candycrushsaga
